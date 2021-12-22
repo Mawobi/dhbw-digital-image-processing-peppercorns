@@ -18,7 +18,7 @@ For this, you may assume that the input image is in the same directory and use e
 tifffile.imread('[input.tif](input.tif)')
 ```
 
-##Notes
+## Notes
 
 - **There are 110 peppercorns in the input image**
 - Manual counting of peppercorns is not allowed, you will get points for your algorithm, which must count the peppercorns
